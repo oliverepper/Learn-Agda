@@ -1,0 +1,7 @@
+#+title: My Solutions to PLFA
+#+author: Oliver Epper
+#+email: oliver.epper@gmail.com
+#+language: en
+#+options: ':t toc:nil author:t email:t
+
+These are my solutions to the great book [[https://plfa.github.io][Programming Language Foundations in Agda]].
